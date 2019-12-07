@@ -10,6 +10,6 @@ Try:
 5. Causal Models
 
 Others:
-1. Layer 6: Recommender
+1. Layer 6: Recommender: https://dl.acm.org/citation.cfm?id=3267480
 2. Hidden Markov Model 
 
